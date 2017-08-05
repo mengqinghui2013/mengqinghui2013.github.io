@@ -12,8 +12,12 @@
 * [IndexDB](indexdb.md)
 * [中级篇](zhong-ji-pian.md)
 * [Immutable](immutable.md)
+* deepEqual
 * [Virtual DOM](virtual-dom.md)
-* [Diff算法](diffsuan-fa.md)
+* [React 优化](react-you-hua.md)
+* [webpack 优化](webpack-you-hua.md)
 * [React-Router](react-router.md)
 * 高级篇
+* [Diff算法](diffsuan-fa.md)
+* [React 事件机制](immutable-yuan-li.md)
 
