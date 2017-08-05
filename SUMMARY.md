@@ -10,12 +10,12 @@
 * [Promise/Async](promiseasync.md)
 * [Redux](redux.md)
 * [中级篇](zhong-ji-pian.md)
-* Promise/Async
+* [Promise/Async](promiseasync.md)
 * IndexDB
 * [Immutable](immutable.md)
-* Virtual DOM
+* [Virtual DOM](virtual-dom.md)
 * Diff算法
 * React-Router
 * 高级篇
-* ES6入门-第二部分
+* [ES6入门-第二部分](es6ru-95e8-di-er-bu-fen.md)
 
