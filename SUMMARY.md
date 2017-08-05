@@ -8,9 +8,10 @@
 * [TodoList](todo.md)
 * [Promise/Async](promiseasync.md)
 * [Redux](redux.md)
-* [高级篇](gao-ji-pian.md)
+* 中级篇
+* Promise/Async
+* IndexDB
 * [Immutable](immutable.md)
 * Virtual DOM
 * Diff算法
-* Promise/Async
 
