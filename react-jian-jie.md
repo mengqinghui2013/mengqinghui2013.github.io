@@ -2,9 +2,9 @@
 
 ## mvc/mvvm 模式
 
-## React 能解决什么问题
-
 ## web component
+
+## React 能解决什么问题
 
 ## 
 
