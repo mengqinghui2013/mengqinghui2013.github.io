@@ -9,11 +9,11 @@
 * [TodoList](todo.md)
 * [Promise/Async](promiseasync.md)
 * [Redux](redux.md)
-* IndexDB
+* [IndexDB](indexdb.md)
 * [中级篇](zhong-ji-pian.md)
 * [Immutable](immutable.md)
 * [Virtual DOM](virtual-dom.md)
-* Diff算法
-* React-Router
+* [Diff算法](diffsuan-fa.md)
+* [React-Router](react-router.md)
 * 高级篇
 
