@@ -7,6 +7,10 @@
 3. 能够自己搭建一套开发环境
 4. 使用React完成一个TodoList
 
+git clone https://github.com/mengqinghui2013/_username_.github.io
+
+* 
+  
 
 
 
