@@ -1,6 +1,10 @@
 ## React 是什么？
 
-## mvc/mvvm 模式
+## 开发模式转变
+
+
+
+http://www.cnblogs.com/guwei4037/p/5591183.html
 
 ## web component
 
