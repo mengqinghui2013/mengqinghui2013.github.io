@@ -23,8 +23,7 @@
 * deepEqual
 * [Virtual DOM](virtual-dom.md)
 * [React 优化](react-you-hua.md)
-* [React-Router](react-router.md)
-* 高级篇
+* [高级篇](gao-ji-pian.md)
 * [Diff算法](diffsuan-fa.md)
 * [React 事件机制](immutable-yuan-li.md)
 
