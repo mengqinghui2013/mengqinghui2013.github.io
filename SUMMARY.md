@@ -7,7 +7,6 @@
 * [ES6入门-第一部分](es6.md)
 * [ES6入门-第二部分](es6ru-95e8-di-er-bu-fen.md)
 * [Webpack](webpack.md)
-* [TodoList](todo.md)
 * [Promise/Async](promiseasync.md)
 * [Redux](redux.md)
 * [IndexDB](indexdb.md)
