@@ -6,9 +6,7 @@
 
 2。 能够熟练的设计组件
 
-3。 了解IM系统
+3。 了解IM系统的特别
 
-
-
-
+4。 学习到的知识点包括webpack/react/es6/babel/less/redux/ws 等
 
