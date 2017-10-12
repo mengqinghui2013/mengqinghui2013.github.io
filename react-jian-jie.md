@@ -26,15 +26,13 @@
 
 ## 3. state 和 生命周期函数
 
-   1. setState 是 异步的吗？ this.state.a 的访问情况
+1. setState 是 异步的吗？ this.state.a 的访问情况
 
-   2. didMount和unmount的作用
+2. didMount和unmount的作用
 
-   3. shouldUpdate的作用，如果shouldUpdate 返回了false，子组件的render还触发吗？哪些函数不再执行了？willUpdate和didUpdate，render 都不在触发了
+3. shouldUpdate的作用，如果shouldUpdate 返回了false，子组件的render还触发吗？哪些函数不再执行了？willUpdate和didUpdate，render 都不在触发了
 
-   4. setState触发后发生了什么？
+4. setState触发后发生了什么？
 
 
-
- 
 

@@ -14,7 +14,6 @@
 * [实战-登录注册](shi-6218-deng-lu-zhu-ce.md)
 * 实战-会话列表
 * 实战-气泡页面
-* 实战-文件上传
 * 实战-消息发送页面
 * [中级篇](zhong-ji-pian.md)
 * [Promise/Async](promiseasync.md)
