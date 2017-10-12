@@ -17,7 +17,6 @@
 * 实战-文件上传
 * 实战-消息发送页面
 * [中级篇](zhong-ji-pian.md)
-* [IndexDB](indexdb.md)
 * [Promise/Async](promiseasync.md)
 * [Immutable](immutable.md)
 * deepEqual
