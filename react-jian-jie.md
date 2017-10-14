@@ -2,6 +2,15 @@
 
 安装create-react-app
 
+
+
+## 要求
+
+1. 课堂会有很多提问，大家尽量注意听讲
+2. 知识点讲的比较细
+
+## 
+
 ## 1. JSX 简介
 
 1. jsx 属性 
@@ -34,8 +43,7 @@
 
 4. setState触发后发生了什么？
 
-5. 
-## 4. refs 和 dom元素
+5. ## 4. refs 和 dom元素
 
 ## 5. 事件
 
@@ -43,19 +51,15 @@
 
 2.SyntheticEvent 是什么东西？
 
-3. event 可以放到异步里面吗？  比如 setTimeout\(\(\) =&gt; {console.log\(event\)}, 1\)
+1. event 可以放到异步里面吗？  比如 setTimeout\(\(\) =&gt; {console.log\(event\)}, 1\)
 
 ## 6. JSX和HTML有什么区别？
 
-       1. 属性
+1. 属性
 
-       2. 事件
+2. 事件
 
-       3. 空格
-
-
-
-
+3. 空格
 
 
 
