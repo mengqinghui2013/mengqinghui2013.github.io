@@ -34,9 +34,28 @@
 
 4. setState触发后发生了什么？
 
-
-
+5. 
 ## 4. refs 和 dom元素
+
+## 5. 事件
+
+1.如何阻止默认行为？ return false 可以吗？
+
+2.SyntheticEvent 是什么东西？
+
+3. event 可以放到异步里面吗？  比如 setTimeout\(\(\) =&gt; {console.log\(event\)}, 1\)
+
+## 6. JSX和HTML有什么区别？
+
+       1. 属性
+
+       2. 事件
+
+       3. 空格
+
+
+
+
 
 
 
