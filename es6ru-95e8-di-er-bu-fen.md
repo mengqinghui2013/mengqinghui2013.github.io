@@ -1,14 +1,21 @@
-import/require 区别
+## Class 的基本语法
 
 
 
-decorator
+Promise/Async/Await
+
+ async 返回promise， await 后面的语句要求是promise
+
+ 异常处理怎么办？」
 
 
 
-如何理解modules以及最新的scm
+module 模块
 
 
+
+  
+ 
 
 
 
