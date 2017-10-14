@@ -11,6 +11,8 @@
 
 ## 1. JSX 简介
 
+       jsx 本质上还是js，因此遵循驼峰命名的方式
+
 1. jsx 属性 
 2. jsx 防止xss漏洞
 3. _dangerouslySetInnerHTML_
@@ -41,19 +43,27 @@
 
 4. setState触发后发生了什么？
 
+练习
+
+ 实现一个定时器，显示当前时间
+
+ 实现一个组件，所有的输入小写转换为大写
+
 ## 4. refs 和 dom元素
+
+   1. refs是字符串有什么问题？
+
+   2. dom元素频繁访问有什么问题？
 
 ## 5. 事件
 
 1.如何阻止默认行为？ return false 可以吗？
 
-
-
 2.SyntheticEvent 是什么东西？
 
 1. event 可以放到异步里面吗？  比如 setTimeout\(\(\) =&gt; {console.log\(event\)}, 1\)
 
-3. 事件里面的作用域
+2. 事件里面的作用域
 
 ## 6. JSX和HTML有什么区别？
 
