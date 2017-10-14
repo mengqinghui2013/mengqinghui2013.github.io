@@ -47,9 +47,13 @@
 
 1.如何阻止默认行为？ return false 可以吗？
 
+
+
 2.SyntheticEvent 是什么东西？
 
 1. event 可以放到异步里面吗？  比如 setTimeout\(\(\) =&gt; {console.log\(event\)}, 1\)
+
+3. 事件里面的作用域
 
 ## 6. JSX和HTML有什么区别？
 
@@ -61,7 +65,7 @@
 
 ## 7 list渲染
 
-1.  key的作用是什么
+1. key的作用是什么
 2. key如果不稳定有什么问题吗？
 3. 
 
