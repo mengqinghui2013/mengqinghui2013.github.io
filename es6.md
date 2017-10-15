@@ -15,32 +15,28 @@ Stage 0 - Strawman（展示阶段）
 
 [Github.com/tc39/ecma262](https://github.com/tc39/ecma262) 查看。
 
-
-
 ## 3. let/const/var
 
-1.   块级作用域 
-2.   变量提升
-3.   允许重复定义吗
+1. 块级作用域 
+2. 变量提升
+3. 允许重复定义吗
 4. `const`实际上保证的，并不是变量的值不得改动，而是变量指向的那个内存地址不得改动 
-
-
 
 var a = \[\];
 
 for \(let i = 0; i &lt; 10; i++\) {
 
-  a\[i\] = function \(\) {
+a\[i\] = function \(\) {
 
-    console.log\(i\);
+```
+console.log\(i\);
+```
 
-  };
+};
 
 }
 
-a\[6\]\(\); 
-
-
+a\[6\]\(\);
 
 ## 4. 变量的解构赋值
 
@@ -56,41 +52,36 @@ let \[ , , third\] = \["foo", "bar", "baz"\];
 
 third // "baz"
 
-  2. 对象
+1. 对象
 
    let { bar, foo } = { foo: "aaa", bar: "bbb" };
 
+**变量名和key不匹配怎么办？**
 
-
-   **变量名和key不匹配怎么办？**
-
-   let { foo: baz } = { foo: 'aaa', bar: 'bbb' };
+let { foo: baz } = { foo: 'aaa', bar: 'bbb' };
 
 baz // "aaa"
 
-  3. 默认值
+1. 默认值
 
-      let \[x, y = 'b'\] = \['a', 2\]; // x='a', y='b'
+   let \[x, y = 'b'\] = \['a', 2\]; // x='a', y='b'
 
    **   什么时候使用默认值？**
 
-
-
-  4. null/undefined 处理
+1. null/undefined 处理
 
 let { prop: x } = undefined; // TypeError
 
 let { prop: y } = null; // TypeError
 
-
-
 ## 5. 函数拓展
 
 1. 函数默认值
-2. rest 参数
+2. rest 参数  
    1. ES6 引入 rest 参数（形式为`...变量名`），用于获取函数的多余参数，这样就不需要使用`arguments`对象了。rest 参数搭配的变量是一个数组
 
-   2. rest 参数之后不能再有其他参数（即只能是最后一个参数
+   1. rest 参数之后不能再有其他参数（即只能是最后一个参数
+
 3. name 属性  匿名函数ES5 返回''
 
    1. bind返回的函数，name属性值会加上bound前缀。
@@ -113,20 +104,12 @@ let { prop: y } = null; // TypeError
 
 console.log\(1, ...\[2, 3, 4\], 5\)
 
- 对象使用场景
+对象使用场景
 
-1.   解构 let { x, y, ...z } = { x: 1, y: 2, a: 3, b: 4 };
-2.   拷贝赋值 let z = { a: 3, b: 4 };
+1. 解构 let { x, y, ...z } = { x: 1, y: 2, a: 3, b: 4 };
+2. 拷贝赋值 let z = { a: 3, b: 4 };
    let n = { ...z };
    n // { a: 3, b: 4 }
-
-
-
-
-
-
-
-
 
 
 

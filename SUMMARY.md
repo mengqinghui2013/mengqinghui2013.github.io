@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [入门篇](chapter1.md)
 * [React 简介](react-jian-jie.md)
+  * [React 第二讲](react-jian-jie/react-di-er-jiang.md)
 * [jsx](jsx.md)
 * [ES6入门-第一部分](es6.md)
 * [ES6入门-第二部分](es6ru-95e8-di-er-bu-fen.md)
