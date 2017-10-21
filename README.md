@@ -14,23 +14,13 @@
 
 实战是基于环信IMSDK搭建一个IM系统，包含单聊、群聊，文件上传等模块
 
-
-
 常见的学习资料
 
-1. React 官网 https://facebook.github.io/react/
-2. Redux http://www.redux.org.cn/
-3. ES6 http://es6.ruanyifeng.com/
-4. webpack https://webpack.js.org/
-5. babel  http://babeljs.io/
-
-
-
-
-
-
-
-
+1. React 官网 [https://facebook.github.io/react/](https://facebook.github.io/react/)
+2. Redux [http://www.redux.org.cn/](http://www.redux.org.cn/)
+3. ES6 [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)
+4. webpack [https://webpack.js.org/](https://webpack.js.org/)
+5. babel  [http://babeljs.io/](http://babeljs.io/)
 
 
 
